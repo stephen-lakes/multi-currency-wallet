@@ -1,0 +1,11 @@
+# Go
+bin/
+*.exe
+*.out
+*.test
+*.pb.go
+
+# Node (for frontend)
+node_modules/
+dist/
+.env
